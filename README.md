@@ -205,9 +205,10 @@ These come from building against the API and running it live.
 - **Deal dates and sizes use their own fields.** Deals give `saleDay` as `DD.MM.YY`
   (`"04.06.26"` is 4 June 2026) and the size as `buildingMR`, square metres. Ads use
   `squareMeter`. `client.sale_date()` parses the date.
-- **Check the comparables before you trust a gap.** Near one Tel Aviv listing, six of the
-  seven nearby deals were units in the same new building, and one was 16.8 million ILS for
-  188 m2 (89,586 ILS per m2) against 50,000 to 63,000 ILS per m2 for the rest. Take the
+- **Check the comparables before you trust a gap.** Near one Tel Aviv listing, five of the
+  seven nearby deals were units in one new tower and the other two in another building, all
+  sold before completion. One was 16.8 million ILS for 188 m2 on the 41st floor (89,586 ILS
+  per m2), against 50,000 to 63,000 ILS per m2 for the rest. Take the
   median, and look at `propertyType` and `saleDay`. The `statistics` block (live: 173
   deals, average 6.96 million ILS) covers a wider pool than the `completed` rows returned.
 - **Region is required.** Real estate search, map and project endpoints need `region`
