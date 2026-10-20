@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "completed": [
+      {
+        "address": "אבן גבירול 224",
+        "buildYear": 2028,
+        "buildingMR": 104,
+        "floor": 4,
+        "numberOfFloors": 19,
+        "price": 5193441,
+        "propertyType": "דירה בבית קומות",
+        "rooms": 4,
+        "saleDay": "02.08.26"
+      },
+      {
+        "address": "איינשטיין 1",
+        "buildYear": 2034,
+        "buildingMR": 94,
+        "floor": 5,
+        "numberOfFloors": 8,
+        "price": 5911980,
+        "propertyType": "דירה בבית קומות",
+        "rooms": 4,
+        "saleDay": "30.07.26"
+      },
+      {
+        "address": "אבן גבירול 224",
+        "buildYear": 2028,
+        "buildingMR": 115,
+        "floor": 13,
+        "numberOfFloors": 44,
+        "price": 5954000,
+        "propertyType": "דירה בבית קומות",
+        "rooms": 4,
+        "saleDay": "27.07.26"
+      }
+    ],
+    "statistics": {
+      "avgPrice": 6956432,
+      "count": 173,
+      "maxPrice": 16842251,
+      "minPrice": 5193441
+    }
+  }
+}

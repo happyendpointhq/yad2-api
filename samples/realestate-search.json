@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "data": {
+    "private": [
+      {
+        "address": {
+          "region": {
+            "text": "תל אביב והסביבה",
+            "id": 3
+          },
+          "city": {
+            "id": 5000,
+            "text": "תל אביב יפו"
+          },
+          "area": {
+            "text": "אזור תל אביב יפו"
+          },
+          "neighborhood": {
+            "id": 850,
+            "text": "איזור שדה דב"
+          },
+          "street": {
+            "text": "איינשטיין"
+          },
+          "house": {
+            "number": 1,
+            "floor": 2
+          },
+          "coords": {
+            "lat": 32.11259,
+            "lon": 34.784259
+          }
+        },
+        "subcategoryId": 1,
+        "categoryId": 2,
+        "adType": "private",
+        "price": 6650000,
+        "token": "loicf65f",
+        "additionalDetails": {
+          "property": {
+            "text": "דירה"
+          },
+          "roomsCount": 4,
+          "squareMeter": 123,
+          "propertyCondition": {
+            "id": 1
+          },
+          "promotions": []
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010426_20261003131346.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010426_20261003131346.jpeg",
+            "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010313_20261003131357.jpeg"
+          ],
+          "squareMeterBuild": 116
+        },
+        "tags": [
+          {
+            "name": "חדש מקבלן",
+            "id": 900,
+            "priority": 1
+          },
+          {
+            "name": "חניה",
+            "id": 903,
+            "priority": 1
+          },
+          {
+            "name": "ממ\"ד",
+            "id": 909,
+            "priority": 1
+          }
+        ],
+        "priceBeforeTag": 6890000,
+        "orderId": 57566184,
+        "priority": 3
+      }
+    ],
+    "agency": [
+      {
+        "address": {
+          "region": {
+            "text": "תל אביב והסביבה",
+            "id": 3
+          },
+          "city": {
+            "id": 5000,
+            "text": "תל אביב יפו"
+          },
+          "area": {
+            "text": "אזור תל אביב יפו"
+          },
+          "neighborhood": {
+            "id": 205,
+            "text": "פלורנטין"
+          },
+          "street": {
+            "text": "מסילת וולפסון"
+          },
+          "house": {
+            "floor": 2
+          },
+          "coords": {
+            "lat": 32.0577939318182,
+            "lon": 34.7680526818182
+          }
+        },
+        "subcategoryId": 5,
+        "categoryId": 2,
+        "adType": "commercial",
+        "price": 3350000,
+        "token": "vuxb5pds",
+        "additionalDetails": {
+          "property": {
+            "text": "דירה"
+          },
+          "roomsCount": 3,
+          "squareMeter": 72,
+          "propertyCondition": {
+            "id": 6
+          },
+          "promotions": []
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202608/04/2_5/o/y2_1pa_010846_20260804125029.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202608/04/2_5/o/y2_1pa_010846_20260804125029.jpeg",
+            "https://img.yad2.co.il/Pic/202608/04/2_5/o/y2_1pa_010177_20260804125030.jpeg"
+          ],
+          "squareMeterBuild": 72
+        },
+        "tags": [
+          {
+            "name": "נכס חדש",
+            "id": 1101,
+            "priority": 1
+          },
+          {
+            "name": "מטבח גדול",
+            "id": 1120,
+            "priority": 3
+          },
+          {
+            "name": "בהזדמנות",
+            "id": 1191,
+            "priority": 10
+          }
+        ],
+        "orderId": 57323242,
+        "priority": 3,
+        "packages": {}
+      }
+    ],
+    "platinum": [
+      {
+        "address": {
+          "region": {
+            "text": "תל אביב והסביבה",
+            "id": 3
+          },
+          "city": {
+            "id": 5000,
+            "text": "תל אביב יפו"
+          },
+          "area": {
+            "text": "אזור תל אביב יפו"
+          },
+          "street": {
+            "text": "פנקס"
+          },
+          "house": {
+            "number": 64,
+            "floor": 10
+          },
+          "coords": {
+            "lon": 34.793261,
+            "lat": 32.09085
+          }
+        },
+        "subcategoryId": 5,
+        "categoryId": 2,
+        "adType": "commercial",
+        "price": 9750000,
+        "token": "0wexha2a",
+        "additionalDetails": {
+          "property": {
+            "text": "דירה"
+          },
+          "roomsCount": 4,
+          "squareMeter": 135,
+          "propertyCondition": {
+            "id": 3
+          },
+          "promotions": []
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202505/10/2_5/o/y2_1_999074_20250510.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202505/10/2_5/o/y2_1_999074_20250510.jpeg",
+            "https://img.yad2.co.il/Pic/202505/10/2_5/o/y2_2_998533_20250510.jpeg"
+          ],
+          "squareMeterBuild": 135
+        },
+        "tags": [
+          {
+            "name": "חניה",
+            "id": 1103,
+            "priority": 1
+          },
+          {
+            "name": "ממ\"ד",
+            "id": 1109,
+            "priority": 1
+          },
+          {
+            "name": "בהזדמנות",
+            "id": 1191,
+            "priority": 10
+          }
+        ],
+        "orderId": 55367970,
+        "priority": 3,
+        "packages": {}
+      }
+    ],
+    "booster": [
+      {
+        "address": {
+          "region": {
+            "text": "תל אביב והסביבה",
+            "id": 3
+          },
+          "city": {
+            "id": 5000,
+            "text": "תל אביב יפו"
+          },
+          "area": {
+            "text": "אזור תל אביב יפו"
+          },
+          "neighborhood": {
+            "id": 1513,
+            "text": "הדר יוסף"
+          },
+          "street": {
+            "text": "קהילת ורשה"
+          },
+          "house": {
+            "floor": 4
+          },
+          "coords": {
+            "lat": 32.1105117109375,
+            "lon": 34.820490890625
+          }
+        },
+        "subcategoryId": 5,
+        "categoryId": 2,
+        "adType": "commercial",
+        "price": 4575000,
+        "token": "s90njs6b",
+        "additionalDetails": {
+          "property": {
+            "text": "דירה"
+          },
+          "roomsCount": 4,
+          "squareMeter": 110,
+          "propertyCondition": {
+            "id": 1
+          },
+          "promotions": []
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/202610/12/2_5/o/y2_1pa_010151_20261012125242.jpeg",
+          "images": [
+            "https://img.yad2.co.il/Pic/202610/12/2_5/o/y2_1pa_010151_20261012125242.jpeg",
+            "https://img.yad2.co.il/Pic/202610/12/2_5/o/y2_1pa_010010_20261012125243.jpeg"
+          ],
+          "squareMeterBuild": 98
+        },
+        "tags": [
+          {
+            "name": "חדש מקבלן",
+            "id": 1100,
+            "priority": 1
+          },
+          {
+            "name": "חניה",
+            "id": 1103,
+            "priority": 1
+          },
+          {
+            "name": "ממ\"ד",
+            "id": 1109,
+            "priority": 1
+          }
+        ],
+        "orderId": 57609686,
+        "priority": 3,
+        "packages": {
+          "isNewFromContractor": true
+        }
+      }
+    ],
+    "pagination": {
+      "total": 5560,
+      "totalPages": 264
+    }
+  }
+}

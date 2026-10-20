@@ -1,0 +1,120 @@
+{
+  "success": true,
+  "data": {
+    "token": "loicf65f",
+    "orderId": 57566184,
+    "adNumber": 78970048,
+    "adType": "private",
+    "categoryId": 2,
+    "subcategoryId": 1,
+    "priority": 3,
+    "statusId": 1,
+    "price": 6650000,
+    "additionalDetails": {
+      "balconiesCount": 1,
+      "entranceDate": "2026-10-16T00:00:00",
+      "squareMeter": 123,
+      "roomsCount": 4,
+      "propertyGroup": {
+        "id": 1,
+        "text": "דירות",
+        "textEng": "apartments"
+      },
+      "property": {
+        "id": 1,
+        "text": "דירה",
+        "textEng": "apartment"
+      },
+      "parkingSpacesCount": 1,
+      "propertyCondition": {
+        "id": 1,
+        "text": "חדש מקבלן (לא גרו בנכס)"
+      },
+      "squareMeterBuild": 116,
+      "buildingTopFloor": 45,
+      "isEnterDateFlexible": true
+    },
+    "inProperty": {
+      "includeAirconditioner": true,
+      "includeBalcony": true,
+      "includeBars": true,
+      "includeElevator": true,
+      "includeParking": true,
+      "includeSecurityRoom": true,
+      "includeWarehouse": true,
+      "isHandicapped": true
+    },
+    "address": {
+      "topArea": {
+        "id": 2,
+        "text": "מרכז",
+        "textEng": "hamerkaz_area"
+      },
+      "region": {
+        "id": 3,
+        "text": "תל אביב והסביבה",
+        "textEng": "TLV"
+      },
+      "area": {
+        "id": 1,
+        "text": "אזור תל אביב יפו",
+        "textEng": "tel_aviv"
+      },
+      "city": {
+        "id": "5000",
+        "text": "תל אביב יפו"
+      },
+      "neighborhood": {
+        "id": 850,
+        "text": "איזור שדה דב"
+      },
+      "street": {
+        "id": "0126",
+        "text": "איינשטיין"
+      },
+      "coords": {
+        "lat": 32.11259,
+        "lon": 34.784259
+      },
+      "house": {
+        "number": 1,
+        "floor": 2
+      },
+      "addressMasterId": 5771838
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010426_20261003131346.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010426_20261003131346.jpeg",
+        "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010313_20261003131357.jpeg"
+      ],
+      "description": "דירת 4 חדרים בפרויקט VOGUE של גינדי בשדה דב.\nקומה 2 במגדל (מתוך 45 קומות) 4 חדרים. שטח  116 מ\"ר. מרפסת 14 מ\"ר. חניה אחת. שטח אקו כ 123 מ\"ר, לפי 54100 למ\"ר, סה\"כ 6650000 ש\"ח\nכ 250 מטר מהים, צמוד לרכבת הקלה. \nמפרט יוקרתי ופסיליטיס: בריכה, חדר כושר, לובי וטרקלין דיירים. \nמדובר בהעברת זכויות בחוזה מול גינדי, לפני הוצאת היתר בניה. מועד המסירה כ 72 חודש מקבלת היתר. יתרת התשלומים צמודה למדד תשומות הבניה",
+      "shelterDistance": 780
+    },
+    "dates": {
+      "updatedAt": "2026-10-20T16:40:30",
+      "createdAt": "2026-10-03T13:15:02",
+      "endsAt": "2027-10-03T00:00:00",
+      "rebouncedAt": "2026-10-20T19:40:30"
+    },
+    "abovePrice": "6000000",
+    "tags": [
+      {
+        "name": "חדש מקבלן",
+        "id": 900,
+        "priority": 1
+      },
+      {
+        "name": "חניה",
+        "id": 903,
+        "priority": 1
+      },
+      {
+        "name": "ממ\"ד",
+        "id": 909,
+        "priority": 1
+      }
+    ],
+    "priceBeforeTag": 6890000
+  }
+}

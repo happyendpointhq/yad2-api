@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "ads": [
+      {
+        "token": "62mg90l6",
+        "price": 74605,
+        "adType": "commercial",
+        "manufacturer": {
+          "id": 46,
+          "text": "פיג'ו",
+          "textEng": "Peugeot"
+        },
+        "model": {
+          "id": 10655,
+          "text": "2008"
+        },
+        "subModel": {
+          "id": 100989,
+          "text": "Premium אוט׳ בנזין 1.2 (130 כ״ס)"
+        },
+        "km": 85130,
+        "hand": {
+          "id": 2,
+          "text": "יד שניה"
+        },
+        "engineType": {
+          "id": 1101,
+          "text": "בנזין",
+          "textEng": "Petrol"
+        },
+        "address": {
+          "area": {
+            "text": "כל הארץ"
+          }
+        },
+        "metaData": {
+          "coverImage": "https://img.yad2.co.il/Pic/...jpeg"
+        }
+      }
+    ],
+    "pagination": {
+      "total": 57327,
+      "totalPages": 1434
+    }
+  }
+}

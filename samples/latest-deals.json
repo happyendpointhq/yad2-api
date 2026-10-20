@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "data": [
+    {
+      "address": "ה' באייר 16, ראש העין",
+      "buildYear": 1993,
+      "buildingMR": 97,
+      "floor": 3,
+      "numberOfFloors": 4,
+      "price": 1710000,
+      "propertyType": "דירה בבית קומות",
+      "rooms": 4,
+      "saleDay": "17.09.26"
+    },
+    {
+      "address": "צפניה 4, בני ברק",
+      "buildYear": 1960,
+      "buildingMR": 123,
+      "floor": 3,
+      "numberOfFloors": 3,
+      "price": 3300000,
+      "propertyType": "דירה בבית קומות",
+      "rooms": 5.5,
+      "saleDay": "17.09.26"
+    },
+    {
+      "address": "תרנ\"א 28, חדרה",
+      "buildYear": 1970,
+      "buildingMR": 98,
+      "floor": 4,
+      "numberOfFloors": 4,
+      "price": 1390000,
+      "propertyType": "דירה בבית קומות",
+      "rooms": 3,
+      "saleDay": "17.09.26"
+    }
+  ]
+}
