@@ -321,6 +321,7 @@ Yes, including the UAE, Saudi Arabia, Spain, the UK and the US. See the
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - asking versus paid prices in Dubai, the same idea as `comps.py`
 - [aqar-api](https://github.com/happyendpointhq/aqar-api) - Saudi Arabia listings and district prices
 - [rent-com-api](https://github.com/happyendpointhq/rent-com-api) - US rentals, with a watchlist and CSV export
+- [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish listings for sale and rent, with a search-to-CSV export
 
 ---
 
