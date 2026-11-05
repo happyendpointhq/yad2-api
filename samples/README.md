@@ -4,6 +4,8 @@ Example `200` responses for six Yad2 API endpoints. Field names and values are u
 except that long lists are cut to their first few items and seller fields are removed
 (`customer`, and `searchText`, which embeds the seller's first name).
 
+Privacy review (4 Nov 2026): house numbers are removed (`house.number` reads `[removed]`, and the sold homes in `latest-deals.json` and `realestate-nearby-deals.json` keep street and city only), `addressMasterId` reads `[removed]`, and listing coordinates are rounded to three decimals (about 100 m). Floor, rooms, size and price are kept.
+
 Five of them are **live responses captured on 20 October 2026**, not the documentation's
 examples: the live search also returns paid placement lists (`platinum`, `booster`) and
 fields such as `priceBeforeTag` and `tags`, and the documented nearby-deals example has

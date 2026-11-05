@@ -3,7 +3,7 @@
   "data": {
     "completed": [
       {
-        "address": "אבן גבירול 224",
+        "address": "אבן גבירול",
         "buildYear": 2028,
         "buildingMR": 104,
         "floor": 4,
@@ -14,7 +14,7 @@
         "saleDay": "02.08.26"
       },
       {
-        "address": "איינשטיין 1",
+        "address": "איינשטיין",
         "buildYear": 2034,
         "buildingMR": 94,
         "floor": 5,
@@ -25,7 +25,7 @@
         "saleDay": "30.07.26"
       },
       {
-        "address": "אבן גבירול 224",
+        "address": "אבן גבירול",
         "buildYear": 2028,
         "buildingMR": 115,
         "floor": 13,

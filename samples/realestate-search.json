@@ -23,12 +23,12 @@
             "text": "איינשטיין"
           },
           "house": {
-            "number": 1,
+            "number": "[removed]",
             "floor": 2
           },
           "coords": {
-            "lat": 32.11259,
-            "lon": 34.784259
+            "lat": 32.113,
+            "lon": 34.784
           }
         },
         "subcategoryId": 1,
@@ -102,8 +102,8 @@
             "floor": 2
           },
           "coords": {
-            "lat": 32.0577939318182,
-            "lon": 34.7680526818182
+            "lat": 32.058,
+            "lon": 34.768
           }
         },
         "subcategoryId": 5,
@@ -170,12 +170,12 @@
             "text": "פנקס"
           },
           "house": {
-            "number": 64,
+            "number": "[removed]",
             "floor": 10
           },
           "coords": {
-            "lon": 34.793261,
-            "lat": 32.09085
+            "lon": 34.793,
+            "lat": 32.091
           }
         },
         "subcategoryId": 5,
@@ -249,8 +249,8 @@
             "floor": 4
           },
           "coords": {
-            "lat": 32.1105117109375,
-            "lon": 34.820490890625
+            "lat": 32.111,
+            "lon": 34.82
           }
         },
         "subcategoryId": 5,

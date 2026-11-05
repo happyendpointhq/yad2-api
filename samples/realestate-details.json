@@ -73,14 +73,14 @@
         "text": "איינשטיין"
       },
       "coords": {
-        "lat": 32.11259,
-        "lon": 34.784259
+        "lat": 32.113,
+        "lon": 34.784
       },
       "house": {
-        "number": 1,
+        "number": "[removed]",
         "floor": 2
       },
-      "addressMasterId": 5771838
+      "addressMasterId": "[removed]"
     },
     "metaData": {
       "coverImage": "https://img.yad2.co.il/Pic/202610/03/2_1/o/y2_1pa_010426_20261003131346.jpeg",
