@@ -322,6 +322,7 @@ Yes, including the UAE, Saudi Arabia, Spain, the UK and the US. See the
 - [aqar-api](https://github.com/happyendpointhq/aqar-api) - Saudi Arabia listings and district prices
 - [rent-com-api](https://github.com/happyendpointhq/rent-com-api) - US rentals, with a watchlist and CSV export
 - [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish listings for sale and rent, with a search-to-CSV export
+- [99co-api](https://github.com/happyendpointhq/99co-api) - Singapore listings and transactions, with a project price-trend example
 
 ---
 
