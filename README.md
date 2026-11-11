@@ -10,6 +10,8 @@ Built and maintained by [Happy Endpoint](https://happyendpoint.com/library/yad2-
 
 - Subscribe and test every endpoint on RapidAPI: https://rapidapi.com/happyendpoint/api/yad21
 - Product page: https://happyendpoint.com/library/yad2-api?utm_source=github&utm_medium=readme&utm_campaign=yad2-api
+- Postman documentation: https://documenter.getpostman.com/view/56555678/2sBYHYtdGP
+- Postman collection (fork and run): https://www.postman.com/happyendpoints-team/yad2-api
 
 ---
 
